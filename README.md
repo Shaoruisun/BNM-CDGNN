@@ -8,7 +8,7 @@ e.g. run:
 
 python Graph.py --data_dir ./database/cif --name_database MP_test1 --cutoff 8 --max_num_nbr 12 --compress_ratio 1
 
-## 3. run train_BNM_CDGNN.py to train the CDGNN model
+## 3. run train_BNM_CDGNN.py to train the BNM_CDGNN model
 
   e.g. run:  
   
